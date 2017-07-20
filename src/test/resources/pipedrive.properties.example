@@ -1,0 +1,13 @@
+pipedrive.apitoken = your api token from pipedrive
+pipedrive.stageid.january = 1
+pipedrive.stageid.february = 2
+pipedrive.stageid.march = 3
+pipedrive.stageid.april = 4
+pipedrive.stageid.may = 5
+pipedrive.stageid.june = 6
+pipedrive.stageid.july = 7
+pipedrive.stageid.august = 8
+pipedrive.stageid.september = 9 
+pipedrive.stageid.october = 10
+pipedrive.stageid.november = 11
+pipedrive.stageid.december = 12
